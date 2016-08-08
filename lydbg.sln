@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lydbg", "lydbg\lydbg.vcxproj", "{B1DD4F67-0130-47FA-96AB-AFDC734CFC72}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dbgEngine", "dbgEngine\dbgEngine.vcxproj", "{D17C2358-CF6E-4B66-A355-F6687CFCDB06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{B1DD4F67-0130-47FA-96AB-AFDC734CFC72}.Release|x64.Build.0 = Release|x64
 		{B1DD4F67-0130-47FA-96AB-AFDC734CFC72}.Release|x86.ActiveCfg = Release|Win32
 		{B1DD4F67-0130-47FA-96AB-AFDC734CFC72}.Release|x86.Build.0 = Release|Win32
+		{D17C2358-CF6E-4B66-A355-F6687CFCDB06}.Debug|x64.ActiveCfg = Debug|x64
+		{D17C2358-CF6E-4B66-A355-F6687CFCDB06}.Debug|x64.Build.0 = Debug|x64
+		{D17C2358-CF6E-4B66-A355-F6687CFCDB06}.Debug|x86.ActiveCfg = Debug|Win32
+		{D17C2358-CF6E-4B66-A355-F6687CFCDB06}.Debug|x86.Build.0 = Debug|Win32
+		{D17C2358-CF6E-4B66-A355-F6687CFCDB06}.Release|x64.ActiveCfg = Release|x64
+		{D17C2358-CF6E-4B66-A355-F6687CFCDB06}.Release|x64.Build.0 = Release|x64
+		{D17C2358-CF6E-4B66-A355-F6687CFCDB06}.Release|x86.ActiveCfg = Release|Win32
+		{D17C2358-CF6E-4B66-A355-F6687CFCDB06}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
