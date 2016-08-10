@@ -6,12 +6,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pe.c">
+    <ClCompile Include="peinfo\peinfo.c">
       <Filter>PEInfo</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="peinfo.h">
+    <ClInclude Include="peinfo\peinfo.h">
       <Filter>PEInfo</Filter>
     </ClInclude>
   </ItemGroup>
